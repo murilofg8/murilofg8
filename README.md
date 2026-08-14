@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como Assessor Comercial da Adapti Soluções web.
 - 🌱 Estou cursando Engenharia da Computação na Universidade Federal do Espírito Santo.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=murilofg8&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=murilofg8&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark) &nbsp; &nbsp; [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=murilofg8&langs_count=3&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=murilofg8&langs_count=3&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=murilofg8&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=murilofg8&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark) &nbsp; &nbsp; [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=murilofg8&langs_count=3&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=murilofg8&langs_count=3&theme=dark)
 
 <h3 align="left">My Stack </h3>
 <div align="left">
