@@ -1,4 +1,4 @@
-## Olá! Eu sou o Murilo Farias Guimarães
+## Olá! Eu sou o Murilo Farias Guimarães.
 
 - 🔭 Hoje trabalho como Assessor Comercial da Adapti Soluções web.
 - 🌱 Estou cursando Engenharia da Computação na Universidade Federal do Espírito Santo.
